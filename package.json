@@ -8,6 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@babel/plugin-transform-typescript": "^7.11.0",
     "@react-native-community/async-storage": "1.6.2",
     "@react-native-community/blur": "3.3.1",
     "@tensorflow-models/mobilenet": "2.0.4",
@@ -23,7 +24,9 @@
     "react-dom": "16.8.3",
     "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
     "react-native-image-picker": "1.1.0",
-    "react-native-web": "^0.11.7"
+    "react-native-typescript-transformer": "^1.2.13",
+    "react-native-web": "^0.11.7",
+    "typescript": "^4.0.2"
   },
   "devDependencies": {
     "babel-preset-expo": "^7.0.0"
