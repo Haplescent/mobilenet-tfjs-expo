@@ -14,3 +14,6 @@ Interesting sources to consider
 
 
 https://www.youtube.com/watch?v=Y-0Iy0EntWY&ab_channel=UnsureProgrammer
+
+
+pytorch -> tfjs: https://github.com/anujdutt9/PyTorch-DeepLearning/blob/master/Udacity%20PyTorch%20Course%20Exercises/Part%206%20(II)%20-%20Saving%20and%20Loading%20Models%20as%20ONNX.ipynb
